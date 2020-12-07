@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/test-login-page/static/css/main.18dd87c3.chunk.css",
-    "main.js": "/github.io/test-login-page/static/js/main.ecb1c00f.chunk.js",
-    "main.js.map": "/github.io/test-login-page/static/js/main.ecb1c00f.chunk.js.map",
-    "runtime-main.js": "/github.io/test-login-page/static/js/runtime-main.73ded72a.js",
-    "runtime-main.js.map": "/github.io/test-login-page/static/js/runtime-main.73ded72a.js.map",
-    "static/js/2.db2b7378.chunk.js": "/github.io/test-login-page/static/js/2.db2b7378.chunk.js",
-    "static/js/2.db2b7378.chunk.js.map": "/github.io/test-login-page/static/js/2.db2b7378.chunk.js.map",
-    "static/js/3.5e64daaf.chunk.js": "/github.io/test-login-page/static/js/3.5e64daaf.chunk.js",
-    "static/js/3.5e64daaf.chunk.js.map": "/github.io/test-login-page/static/js/3.5e64daaf.chunk.js.map",
-    "index.html": "/github.io/test-login-page/index.html",
-    "static/css/main.18dd87c3.chunk.css.map": "/github.io/test-login-page/static/css/main.18dd87c3.chunk.css.map",
-    "static/js/2.db2b7378.chunk.js.LICENSE.txt": "/github.io/test-login-page/static/js/2.db2b7378.chunk.js.LICENSE.txt",
-    "static/media/hero-image.bf44a32d.png": "/github.io/test-login-page/static/media/hero-image.bf44a32d.png"
+    "main.css": "/test-login-page/static/css/main.18dd87c3.chunk.css",
+    "main.js": "/test-login-page/static/js/main.ecb1c00f.chunk.js",
+    "main.js.map": "/test-login-page/static/js/main.ecb1c00f.chunk.js.map",
+    "runtime-main.js": "/test-login-page/static/js/runtime-main.b83f3354.js",
+    "runtime-main.js.map": "/test-login-page/static/js/runtime-main.b83f3354.js.map",
+    "static/js/2.db2b7378.chunk.js": "/test-login-page/static/js/2.db2b7378.chunk.js",
+    "static/js/2.db2b7378.chunk.js.map": "/test-login-page/static/js/2.db2b7378.chunk.js.map",
+    "static/js/3.5e64daaf.chunk.js": "/test-login-page/static/js/3.5e64daaf.chunk.js",
+    "static/js/3.5e64daaf.chunk.js.map": "/test-login-page/static/js/3.5e64daaf.chunk.js.map",
+    "index.html": "/test-login-page/index.html",
+    "static/css/main.18dd87c3.chunk.css.map": "/test-login-page/static/css/main.18dd87c3.chunk.css.map",
+    "static/js/2.db2b7378.chunk.js.LICENSE.txt": "/test-login-page/static/js/2.db2b7378.chunk.js.LICENSE.txt",
+    "static/media/hero-image.bf44a32d.png": "/test-login-page/static/media/hero-image.bf44a32d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.73ded72a.js",
+    "static/js/runtime-main.b83f3354.js",
     "static/js/2.db2b7378.chunk.js",
     "static/css/main.18dd87c3.chunk.css",
     "static/js/main.ecb1c00f.chunk.js"
